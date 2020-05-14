@@ -1,1 +1,1 @@
-## BuddiesGram, a Social Network from Coding Cafe
+## Esinsta, a Social Network "Instagram" clone using flutter
