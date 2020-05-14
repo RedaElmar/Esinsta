@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330710929617",
+    "firebase_url": "https://instapp-4ced5.firebaseio.com",
+    "project_id": "instapp-4ced5",
+    "storage_bucket": "instapp-4ced5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330710929617:android:d5b182a279db17bc7835f0",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330710929617-mfre635advgu6ev1m083g9cut89df8lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "9e540522128814867e9ad7d357b1b9e43086f77e"
+          }
+        },
+        {
+          "client_id": "330710929617-3ppq91jcqvti5sg3vgu2acuvhooj9e47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgu36Ew4C3HffkAM516k-X94tVDJdSUps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330710929617-3ppq91jcqvti5sg3vgu2acuvhooj9e47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
